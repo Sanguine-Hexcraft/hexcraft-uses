@@ -15,5 +15,5 @@ vs code, cursor, neovim (lazyvim?)
 https://iterm2colorschemes.com/ black metal themes, dracula
 
 ## Packages
-brew install gh lazygit ripgrep fzf bat eza tldr
+`brew install gh lazygit ripgrep fzf bat eza tldr`
 (or any package manager)
